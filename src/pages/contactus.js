@@ -14,25 +14,22 @@ import Banner from "../components/Banner";
  *  Your server to be running ---> Run `npm run dev` in your terminal
  */
 
-function Home() {
+function ContactUs() {
   return (
     <div>
       <Navbar />
       <Banner />
       <section>
         <div className="container">
-          <h1>Welcome to Supplies Geekout</h1>
+          <h1>Contact Us</h1>
           <p>
-            Help contribute to the community by donating any supplies that you
-            can spare to those who need them the most! (especially with what's
-            going on in the world today)
+            This is my phone number
           </p>
         </div>
       </section>
-      <Donations />
       <Footer />
     </div>
   );
 }
 
-export default Home;
+export default ContactUs;
