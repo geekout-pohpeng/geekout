@@ -31,3 +31,4 @@ hahaha
 
 Test pull
  test push error
+test stash
