@@ -23,7 +23,6 @@ function ContactUs() {
         <div className="container">
           <h1>Contact Us</h1>
           <p>
-            This is my phone number
           </p>
         </div>
       </section>
